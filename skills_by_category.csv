@@ -1,0 +1,421 @@
+category,skill,count,total_jobs_in_cat,pct_of_category_jobs
+Accounting / Auditing / Taxation,finance,4810,5872,81.9141689373297
+Accounting / Auditing / Taxation,accounting,965,5872,16.43392370572207
+Accounting / Auditing / Taxation,sap,141,5872,2.4012261580381473
+Accounting / Auditing / Taxation,aws,61,5872,1.0388283378746594
+Accounting / Auditing / Taxation,logistics,53,5872,0.9025885558583105
+Accounting / Auditing / Taxation,sql,32,5872,0.544959128065395
+Accounting / Auditing / Taxation,power bi,29,5872,0.4938692098092643
+Accounting / Auditing / Taxation,procurement,29,5872,0.4938692098092643
+Accounting / Auditing / Taxation,excel,28,5872,0.4768392370572207
+Accounting / Auditing / Taxation,oracle,27,5872,0.45980926430517716
+Admin / Secretarial,finance,205,406,50.49261083743842
+Admin / Secretarial,procurement,41,406,10.098522167487685
+Admin / Secretarial,accounting,34,406,8.374384236453201
+Admin / Secretarial,aws,29,406,7.142857142857142
+Admin / Secretarial,project management,29,406,7.142857142857142
+Admin / Secretarial,logistics,28,406,6.896551724137931
+Admin / Secretarial,mechanical,11,406,2.70935960591133
+Admin / Secretarial,electrical,8,406,1.9704433497536946
+Admin / Secretarial,quality assurance,8,406,1.9704433497536946
+Admin / Secretarial,salesforce,8,406,1.9704433497536946
+Advertising / Media,digital marketing,282,363,77.68595041322314
+Advertising / Media,seo,68,363,18.732782369146005
+Advertising / Media,finance,17,363,4.683195592286501
+Advertising / Media,quality assurance,8,363,2.203856749311295
+Advertising / Media,project management,7,363,1.9283746556473829
+Advertising / Media,content marketing,6,363,1.6528925619834711
+Advertising / Media,salesforce,5,363,1.3774104683195594
+Advertising / Media,data science,4,363,1.1019283746556474
+Advertising / Media,accounting,3,363,0.8264462809917356
+Advertising / Media,data analysis,2,363,0.5509641873278237
+Architecture / Interior Design,mechanical,38,134,28.35820895522388
+Architecture / Interior Design,electrical,35,134,26.119402985074625
+Architecture / Interior Design,civil,30,134,22.388059701492537
+Architecture / Interior Design,autocad,15,134,11.194029850746269
+Architecture / Interior Design,project management,9,134,6.7164179104477615
+Architecture / Interior Design,procurement,4,134,2.9850746268656714
+Architecture / Interior Design,r,3,134,2.2388059701492535
+Architecture / Interior Design,sap,3,134,2.2388059701492535
+Architecture / Interior Design,aws,2,134,1.4925373134328357
+Architecture / Interior Design,chemical,1,134,0.7462686567164178
+Banking and Finance,finance,3222,5069,63.5628329058986
+Banking and Finance,java,416,5069,8.206746892878279
+Banking and Finance,accounting,243,5069,4.7938449398303415
+Banking and Finance,devops,147,5069,2.899980272243046
+Banking and Finance,project management,109,5069,2.1503255079897414
+Banking and Finance,oracle,104,5069,2.0516867232195697
+Banking and Finance,sql,100,5069,1.9727756954034326
+Banking and Finance,sap,94,5069,1.8544091536792267
+Banking and Finance,linux,79,5069,1.5584927993687117
+Banking and Finance,python,73,5069,1.4401262576445057
+Building and Construction,civil,832,2500,33.28
+Building and Construction,electrical,823,2500,32.92
+Building and Construction,mechanical,548,2500,21.92
+Building and Construction,aws,99,2500,3.9600000000000004
+Building and Construction,project management,84,2500,3.36
+Building and Construction,finance,74,2500,2.96
+Building and Construction,procurement,67,2500,2.68
+Building and Construction,testing,27,2500,1.08
+Building and Construction,quality assurance,25,2500,1.0
+Building and Construction,chemical,14,2500,0.5599999999999999
+Consulting,sap,742,2594,28.604471858134158
+Consulting,finance,242,2594,9.329221279876638
+Consulting,electrical,164,2594,6.322282189668465
+Consulting,mechanical,144,2594,5.551272166538165
+Consulting,digital marketing,138,2594,5.319969159599075
+Consulting,java,132,2594,5.088666152659985
+Consulting,salesforce,106,2594,4.086353122590594
+Consulting,civil,103,2594,3.9707016191210482
+Consulting,cybersecurity,97,2594,3.7393986121819585
+Consulting,agile,75,2594,2.8912875867386276
+Customer Service,digital marketing,133,406,32.758620689655174
+Customer Service,logistics,52,406,12.807881773399016
+Customer Service,finance,31,406,7.635467980295567
+Customer Service,sap,26,406,6.403940886699508
+Customer Service,aws,22,406,5.41871921182266
+Customer Service,supply chain,19,406,4.679802955665025
+Customer Service,mechanical,16,406,3.9408866995073892
+Customer Service,procurement,14,406,3.4482758620689653
+Customer Service,project management,14,406,3.4482758620689653
+Customer Service,electrical,13,406,3.201970443349754
+Design,electrical,275,750,36.666666666666664
+Design,mechanical,226,750,30.133333333333333
+Design,civil,84,750,11.200000000000001
+Design,r,39,750,5.2
+Design,linux,31,750,4.133333333333333
+Design,project management,13,750,1.7333333333333332
+Design,c++,12,750,1.6
+Design,seo,11,750,1.4666666666666666
+Design,autocad,10,750,1.3333333333333335
+Design,digital marketing,10,750,1.3333333333333335
+Education and Training,finance,28,180,15.555555555555555
+Education and Training,chemical,26,180,14.444444444444443
+Education and Training,accounting,25,180,13.88888888888889
+Education and Training,agile,21,180,11.666666666666666
+Education and Training,electrical,20,180,11.11111111111111
+Education and Training,data science,14,180,7.777777777777778
+Education and Training,cybersecurity,9,180,5.0
+Education and Training,mechanical,6,180,3.3333333333333335
+Education and Training,quality assurance,6,180,3.3333333333333335
+Education and Training,sap,4,180,2.2222222222222223
+Engineering,electrical,2468,8927,27.646465777976925
+Engineering,mechanical,2238,8927,25.0700123221687
+Engineering,r,629,8927,7.046040103058138
+Engineering,civil,528,8927,5.914640976811919
+Engineering,chemical,443,8927,4.962473395317576
+Engineering,.net,426,8927,4.772039879018707
+Engineering,testing,305,8927,3.4166013218326428
+Engineering,java,255,8927,2.856502744483029
+Engineering,c#,253,8927,2.8340988013890445
+Engineering,procurement,217,8927,2.430827825697323
+Entertainment,java,12,40,30.0
+Entertainment,devops,6,40,15.0
+Entertainment,finance,6,40,15.0
+Entertainment,javascript,3,40,7.5
+Entertainment,quality assurance,3,40,7.5
+Entertainment,rust,3,40,7.5
+Entertainment,.net,1,40,2.5
+Entertainment,aws,1,40,2.5
+Entertainment,c#,1,40,2.5
+Entertainment,content marketing,1,40,2.5
+Environment / Health,chemical,117,267,43.82022471910113
+Environment / Health,logistics,38,267,14.232209737827715
+Environment / Health,quality assurance,19,267,7.116104868913857
+Environment / Health,electrical,17,267,6.367041198501873
+Environment / Health,finance,17,267,6.367041198501873
+Environment / Health,aws,16,267,5.992509363295881
+Environment / Health,mechanical,15,267,5.617977528089887
+Environment / Health,r,11,267,4.119850187265917
+Environment / Health,procurement,8,267,2.9962546816479403
+Environment / Health,civil,7,267,2.6217228464419478
+Events / Promotions,digital marketing,16,49,32.6530612244898
+Events / Promotions,aws,9,49,18.367346938775512
+Events / Promotions,project management,6,49,12.244897959183673
+Events / Promotions,finance,4,49,8.16326530612245
+Events / Promotions,logistics,3,49,6.122448979591836
+Events / Promotions,.net,2,49,4.081632653061225
+Events / Promotions,electrical,2,49,4.081632653061225
+Events / Promotions,procurement,2,49,4.081632653061225
+Events / Promotions,asp.net,1,49,2.0408163265306123
+Events / Promotions,business analysis,1,49,2.0408163265306123
+F&B,finance,90,235,38.297872340425535
+F&B,procurement,42,235,17.872340425531917
+F&B,supply chain,42,235,17.872340425531917
+F&B,accounting,17,235,7.234042553191489
+F&B,quality assurance,14,235,5.957446808510639
+F&B,logistics,13,235,5.531914893617021
+F&B,r,13,235,5.531914893617021
+F&B,aws,10,235,4.25531914893617
+F&B,digital marketing,7,235,2.9787234042553195
+F&B,sap,2,235,0.851063829787234
+General Management,finance,212,879,24.118316268486918
+General Management,logistics,102,879,11.604095563139932
+General Management,mechanical,98,879,11.149032992036405
+General Management,electrical,96,879,10.921501706484642
+General Management,supply chain,96,879,10.921501706484642
+General Management,procurement,60,879,6.825938566552901
+General Management,aws,48,879,5.460750853242321
+General Management,civil,48,879,5.460750853242321
+General Management,project management,43,879,4.891922639362913
+General Management,chemical,33,879,3.754266211604096
+General Work,finance,78,211,36.96682464454976
+General Work,procurement,77,211,36.492890995260666
+General Work,electrical,13,211,6.161137440758294
+General Work,mechanical,12,211,5.687203791469194
+General Work,digital marketing,7,211,3.3175355450236967
+General Work,logistics,7,211,3.3175355450236967
+General Work,accounting,5,211,2.3696682464454977
+General Work,civil,3,211,1.4218009478672986
+General Work,quality assurance,3,211,1.4218009478672986
+General Work,r,2,211,0.9478672985781991
+Healthcare / Pharmaceutical,finance,92,388,23.711340206185564
+Healthcare / Pharmaceutical,quality assurance,50,388,12.886597938144329
+Healthcare / Pharmaceutical,procurement,40,388,10.309278350515463
+Healthcare / Pharmaceutical,supply chain,33,388,8.505154639175258
+Healthcare / Pharmaceutical,electrical,27,388,6.958762886597938
+Healthcare / Pharmaceutical,logistics,25,388,6.443298969072164
+Healthcare / Pharmaceutical,r,15,388,3.865979381443299
+Healthcare / Pharmaceutical,sap,15,388,3.865979381443299
+Healthcare / Pharmaceutical,aws,14,388,3.608247422680412
+Healthcare / Pharmaceutical,project management,13,388,3.350515463917526
+Hospitality,finance,24,62,38.70967741935484
+Hospitality,procurement,15,62,24.193548387096776
+Hospitality,digital marketing,7,62,11.29032258064516
+Hospitality,aws,4,62,6.451612903225806
+Hospitality,logistics,4,62,6.451612903225806
+Hospitality,supply chain,3,62,4.838709677419355
+Hospitality,r,2,62,3.225806451612903
+Hospitality,sap,2,62,3.225806451612903
+Hospitality,oracle,1,62,1.6129032258064515
+Hospitality,scrum,1,62,1.6129032258064515
+Human Resources,finance,231,435,53.103448275862064
+Human Resources,logistics,93,435,21.379310344827587
+Human Resources,sap,43,435,9.885057471264368
+Human Resources,aws,27,435,6.206896551724138
+Human Resources,accounting,21,435,4.827586206896552
+Human Resources,supply chain,9,435,2.0689655172413794
+Human Resources,project management,8,435,1.839080459770115
+Human Resources,electrical,6,435,1.3793103448275863
+Human Resources,procurement,6,435,1.3793103448275863
+Human Resources,chemical,3,435,0.6896551724137931
+Information Technology,java,3674,21541,17.055846989461955
+Information Technology,sap,2931,21541,13.606610649459173
+Information Technology,.net,1817,21541,8.435077294461724
+Information Technology,devops,1746,21541,8.105473283505873
+Information Technology,cybersecurity,815,21541,3.7834826609721
+Information Technology,python,751,21541,3.4863748201104867
+Information Technology,electrical,750,21541,3.4817325100970242
+Information Technology,c#,745,21541,3.458520960029711
+Information Technology,aws,667,21541,3.09642077897962
+Information Technology,c++,657,21541,3.0499976788449934
+Insurance,finance,68,127,53.54330708661418
+Insurance,accounting,12,127,9.448818897637794
+Insurance,aws,6,127,4.724409448818897
+Insurance,devops,6,127,4.724409448818897
+Insurance,sap,5,127,3.937007874015748
+Insurance,kubernetes,4,127,3.149606299212598
+Insurance,procurement,4,127,3.149606299212598
+Insurance,spark,4,127,3.149606299212598
+Insurance,hadoop,3,127,2.3622047244094486
+Insurance,java,3,127,2.3622047244094486
+Legal,finance,74,122,60.65573770491803
+Legal,logistics,16,122,13.114754098360656
+Legal,procurement,12,122,9.836065573770492
+Legal,electrical,7,122,5.737704918032787
+Legal,accounting,4,122,3.278688524590164
+Legal,chemical,2,122,1.639344262295082
+Legal,civil,2,122,1.639344262295082
+Legal,aws,1,122,0.819672131147541
+Legal,mechanical,1,122,0.819672131147541
+Legal,project management,1,122,0.819672131147541
+Logistics / Supply Chain,logistics,1569,3520,44.57386363636363
+Logistics / Supply Chain,supply chain,934,3520,26.534090909090907
+Logistics / Supply Chain,procurement,800,3520,22.727272727272727
+Logistics / Supply Chain,sap,240,3520,6.8181818181818175
+Logistics / Supply Chain,chemical,90,3520,2.556818181818182
+Logistics / Supply Chain,power bi,67,3520,1.903409090909091
+Logistics / Supply Chain,finance,62,3520,1.7613636363636362
+Logistics / Supply Chain,aws,59,3520,1.6761363636363638
+Logistics / Supply Chain,excel,41,3520,1.1647727272727273
+Logistics / Supply Chain,project management,19,3520,0.5397727272727273
+Manufacturing,electrical,881,3516,25.056882821387944
+Manufacturing,mechanical,565,3516,16.06939704209329
+Manufacturing,.net,371,3516,10.551763367463026
+Manufacturing,procurement,291,3516,8.276450511945391
+Manufacturing,chemical,209,3516,5.944254835039818
+Manufacturing,testing,209,3516,5.944254835039818
+Manufacturing,r,198,3516,5.631399317406143
+Manufacturing,c#,192,3516,5.460750853242321
+Manufacturing,sap,172,3516,4.891922639362913
+Manufacturing,supply chain,170,3516,4.835039817974971
+Marketing / Public Relations,digital marketing,684,997,68.60581745235707
+Marketing / Public Relations,seo,160,997,16.0481444332999
+Marketing / Public Relations,aws,53,997,5.315947843530592
+Marketing / Public Relations,chemical,30,997,3.009027081243731
+Marketing / Public Relations,content marketing,29,997,2.908726178535607
+Marketing / Public Relations,logistics,26,997,2.6078234704112337
+Marketing / Public Relations,finance,23,997,2.3069207622868606
+Marketing / Public Relations,cybersecurity,14,997,1.4042126379137412
+Marketing / Public Relations,salesforce,12,997,1.2036108324974923
+Marketing / Public Relations,project management,10,997,1.0030090270812437
+Medical / Therapy Services,r,70,100,70.0
+Medical / Therapy Services,quality assurance,11,100,11.0
+Medical / Therapy Services,finance,5,100,5.0
+Medical / Therapy Services,procurement,4,100,4.0
+Medical / Therapy Services,css,3,100,3.0
+Medical / Therapy Services,electrical,2,100,2.0
+Medical / Therapy Services,data science,1,100,1.0
+Medical / Therapy Services,mechanical,1,100,1.0
+Medical / Therapy Services,project management,1,100,1.0
+Medical / Therapy Services,salesforce,1,100,1.0
+Others,electrical,793,3624,21.88189845474614
+Others,finance,429,3624,11.83774834437086
+Others,.net,376,3624,10.375275938189846
+Others,mechanical,273,3624,7.533112582781457
+Others,testing,216,3624,5.960264900662252
+Others,c#,183,3624,5.049668874172186
+Others,accounting,154,3624,4.24944812362031
+Others,java,150,3624,4.13907284768212
+Others,logistics,141,3624,3.8907284768211916
+Others,civil,125,3624,3.449227373068433
+Personal Care / Beauty,aws,9,24,37.5
+Personal Care / Beauty,digital marketing,9,24,37.5
+Personal Care / Beauty,r,3,24,12.5
+Personal Care / Beauty,procurement,1,24,4.166666666666666
+Personal Care / Beauty,supply chain,1,24,4.166666666666666
+Personal Care / Beauty,testing,1,24,4.166666666666666
+Precision Engineering,mechanical,136,253,53.75494071146245
+Precision Engineering,r,30,253,11.857707509881422
+Precision Engineering,procurement,20,253,7.905138339920949
+Precision Engineering,electrical,17,253,6.719367588932807
+Precision Engineering,autocad,8,253,3.1620553359683794
+Precision Engineering,project management,8,253,3.1620553359683794
+Precision Engineering,chemical,7,253,2.766798418972332
+Precision Engineering,oracle,7,253,2.766798418972332
+Precision Engineering,quality assurance,5,253,1.9762845849802373
+Precision Engineering,testing,5,253,1.9762845849802373
+Professional Services,finance,117,644,18.16770186335404
+Professional Services,sap,114,644,17.70186335403727
+Professional Services,electrical,56,644,8.695652173913043
+Professional Services,mechanical,39,644,6.055900621118012
+Professional Services,cybersecurity,33,644,5.124223602484472
+Professional Services,project management,30,644,4.658385093167702
+Professional Services,civil,28,644,4.3478260869565215
+Professional Services,accounting,25,644,3.881987577639751
+Professional Services,java,25,644,3.881987577639751
+Professional Services,procurement,25,644,3.881987577639751
+Public / Civil Service,cybersecurity,23,77,29.87012987012987
+Public / Civil Service,civil,22,77,28.57142857142857
+Public / Civil Service,procurement,8,77,10.38961038961039
+Public / Civil Service,project management,7,77,9.090909090909092
+Public / Civil Service,finance,5,77,6.493506493506493
+Public / Civil Service,mechanical,4,77,5.194805194805195
+Public / Civil Service,chemical,3,77,3.896103896103896
+Public / Civil Service,electrical,2,77,2.5974025974025974
+Public / Civil Service,devops,1,77,1.2987012987012987
+Public / Civil Service,digital marketing,1,77,1.2987012987012987
+Purchasing / Merchandising,electrical,711,2106,33.76068376068376
+Purchasing / Merchandising,procurement,533,2106,25.308641975308642
+Purchasing / Merchandising,.net,366,2106,17.37891737891738
+Purchasing / Merchandising,testing,197,2106,9.354226020892687
+Purchasing / Merchandising,c#,177,2106,8.404558404558404
+Purchasing / Merchandising,java,127,2106,6.030389363722697
+Purchasing / Merchandising,asp.net,111,2106,5.270655270655271
+Purchasing / Merchandising,mechanical,78,2106,3.7037037037037033
+Purchasing / Merchandising,supply chain,66,2106,3.133903133903134
+Purchasing / Merchandising,c++,43,2106,2.0417853751187085
+Real Estate / Property Management,finance,102,262,38.93129770992366
+Real Estate / Property Management,digital marketing,57,262,21.755725190839694
+Real Estate / Property Management,seo,51,262,19.46564885496183
+Real Estate / Property Management,electrical,34,262,12.977099236641221
+Real Estate / Property Management,mechanical,34,262,12.977099236641221
+Real Estate / Property Management,logistics,11,262,4.198473282442748
+Real Estate / Property Management,accounting,8,262,3.0534351145038165
+Real Estate / Property Management,procurement,8,262,3.0534351145038165
+Real Estate / Property Management,project management,8,262,3.0534351145038165
+Real Estate / Property Management,aws,5,262,1.9083969465648856
+Repair and Maintenance,electrical,117,301,38.87043189368771
+Repair and Maintenance,mechanical,93,301,30.89700996677741
+Repair and Maintenance,chemical,39,301,12.956810631229235
+Repair and Maintenance,linux,18,301,5.980066445182724
+Repair and Maintenance,matlab,12,301,3.9867109634551494
+Repair and Maintenance,supply chain,10,301,3.322259136212625
+Repair and Maintenance,logistics,9,301,2.990033222591362
+Repair and Maintenance,civil,8,301,2.6578073089700998
+Repair and Maintenance,project management,6,301,1.9933554817275747
+Repair and Maintenance,quality assurance,6,301,1.9933554817275747
+Risk Management,finance,134,411,32.60340632603406
+Risk Management,supply chain,42,411,10.218978102189782
+Risk Management,civil,36,411,8.75912408759124
+Risk Management,electrical,30,411,7.2992700729927
+Risk Management,project management,25,411,6.082725060827251
+Risk Management,chemical,23,411,5.59610705596107
+Risk Management,logistics,19,411,4.622871046228711
+Risk Management,mechanical,15,411,3.64963503649635
+Risk Management,matlab,12,411,2.9197080291970803
+Risk Management,procurement,12,411,2.9197080291970803
+Sales / Retail,logistics,416,1080,38.51851851851852
+Sales / Retail,digital marketing,151,1080,13.981481481481481
+Sales / Retail,aws,85,1080,7.87037037037037
+Sales / Retail,chemical,83,1080,7.685185185185185
+Sales / Retail,finance,74,1080,6.851851851851852
+Sales / Retail,electrical,54,1080,5.0
+Sales / Retail,cybersecurity,40,1080,3.7037037037037033
+Sales / Retail,supply chain,40,1080,3.7037037037037033
+Sales / Retail,sap,30,1080,2.7777777777777777
+Sales / Retail,project management,22,1080,2.037037037037037
+Sciences / Laboratory / R&D,r,467,1099,42.493175614194726
+Sciences / Laboratory / R&D,chemical,175,1099,15.92356687898089
+Sciences / Laboratory / R&D,mechanical,174,1099,15.832575068243859
+Sciences / Laboratory / R&D,electrical,116,1099,10.555050045495905
+Sciences / Laboratory / R&D,machine learning,70,1099,6.369426751592357
+Sciences / Laboratory / R&D,data science,45,1099,4.094631483166515
+Sciences / Laboratory / R&D,quality assurance,30,1099,2.72975432211101
+Sciences / Laboratory / R&D,testing,30,1099,2.72975432211101
+Sciences / Laboratory / R&D,computer vision,21,1099,1.910828025477707
+Sciences / Laboratory / R&D,project management,20,1099,1.8198362147406733
+Security and Investigation,cybersecurity,40,67,59.70149253731343
+Security and Investigation,aws,10,67,14.925373134328357
+Security and Investigation,c#,3,67,4.477611940298507
+Security and Investigation,logistics,3,67,4.477611940298507
+Security and Investigation,sap,3,67,4.477611940298507
+Security and Investigation,project management,2,67,2.9850746268656714
+Security and Investigation,sql,2,67,2.9850746268656714
+Security and Investigation,supply chain,2,67,2.9850746268656714
+Security and Investigation,devops,1,67,1.4925373134328357
+Security and Investigation,finance,1,67,1.4925373134328357
+Social Services,finance,12,17,70.58823529411765
+Social Services,aws,2,17,11.76470588235294
+Social Services,logistics,2,17,11.76470588235294
+Social Services,quality assurance,1,17,5.88235294117647
+Telecommunications,java,45,268,16.791044776119403
+Telecommunications,cybersecurity,41,268,15.298507462686567
+Telecommunications,procurement,20,268,7.462686567164178
+Telecommunications,linux,16,268,5.970149253731343
+Telecommunications,sap,16,268,5.970149253731343
+Telecommunications,c++,15,268,5.597014925373134
+Telecommunications,mechanical,15,268,5.597014925373134
+Telecommunications,finance,13,268,4.850746268656716
+Telecommunications,devops,12,268,4.477611940298507
+Telecommunications,sql,11,268,4.104477611940299
+Travel / Tourism,procurement,14,31,45.16129032258064
+Travel / Tourism,finance,4,31,12.903225806451612
+Travel / Tourism,data science,2,31,6.451612903225806
+Travel / Tourism,digital marketing,2,31,6.451612903225806
+Travel / Tourism,seo,2,31,6.451612903225806
+Travel / Tourism,supply chain,2,31,6.451612903225806
+Travel / Tourism,cybersecurity,1,31,3.225806451612903
+Travel / Tourism,devops,1,31,3.225806451612903
+Travel / Tourism,java,1,31,3.225806451612903
+Travel / Tourism,logistics,1,31,3.225806451612903
+Wholesale Trade,finance,43,140,30.714285714285715
+Wholesale Trade,procurement,35,140,25.0
+Wholesale Trade,logistics,18,140,12.857142857142856
+Wholesale Trade,chemical,13,140,9.285714285714286
+Wholesale Trade,aws,12,140,8.571428571428571
+Wholesale Trade,supply chain,7,140,5.0
+Wholesale Trade,digital marketing,3,140,2.142857142857143
+Wholesale Trade,azure,2,140,1.4285714285714286
+Wholesale Trade,devops,2,140,1.4285714285714286
+Wholesale Trade,electrical,2,140,1.4285714285714286

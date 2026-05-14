@@ -1,0 +1,91 @@
+positionLevels,skill,count
+Executive,java,997
+Executive,sap,682
+Executive,mechanical,493
+Executive,finance,468
+Executive,.net,419
+Executive,electrical,381
+Executive,devops,374
+Executive,c++,356
+Executive,python,228
+Executive,r,199
+Fresh/entry level,mechanical,37
+Fresh/entry level,r,33
+Fresh/entry level,machine learning,27
+Fresh/entry level,finance,13
+Fresh/entry level,aws,10
+Fresh/entry level,cybersecurity,10
+Fresh/entry level,procurement,10
+Fresh/entry level,supply chain,10
+Fresh/entry level,nlp,7
+Fresh/entry level,c++,6
+Junior Executive,electrical,846
+Junior Executive,.net,321
+Junior Executive,java,218
+Junior Executive,testing,191
+Junior Executive,c#,150
+Junior Executive,digital marketing,144
+Junior Executive,mechanical,123
+Junior Executive,finance,105
+Junior Executive,asp.net,80
+Junior Executive,aws,80
+Manager,finance,3724
+Manager,logistics,1330
+Manager,procurement,763
+Manager,supply chain,585
+Manager,accounting,579
+Manager,electrical,488
+Manager,mechanical,487
+Manager,sap,466
+Manager,digital marketing,369
+Manager,civil,292
+Middle Management,finance,490
+Middle Management,sap,228
+Middle Management,java,122
+Middle Management,procurement,102
+Middle Management,devops,94
+Middle Management,logistics,77
+Middle Management,accounting,71
+Middle Management,supply chain,62
+Middle Management,electrical,61
+Middle Management,cybersecurity,54
+Non-executive,civil,79
+Non-executive,sap,78
+Non-executive,electrical,69
+Non-executive,java,58
+Non-executive,accounting,51
+Non-executive,finance,49
+Non-executive,mechanical,45
+Non-executive,devops,43
+Non-executive,.net,37
+Non-executive,sql,29
+Professional,java,1405
+Professional,sap,1379
+Professional,finance,896
+Professional,devops,774
+Professional,machine learning,518
+Professional,.net,504
+Professional,mechanical,484
+Professional,electrical,482
+Professional,python,364
+Professional,oracle,338
+Senior Executive,java,914
+Senior Executive,mechanical,884
+Senior Executive,finance,757
+Senior Executive,sap,751
+Senior Executive,electrical,705
+Senior Executive,.net,479
+Senior Executive,devops,446
+Senior Executive,civil,318
+Senior Executive,r,299
+Senior Executive,aws,285
+Senior Management,finance,901
+Senior Management,logistics,132
+Senior Management,procurement,105
+Senior Management,supply chain,100
+Senior Management,accounting,88
+Senior Management,sap,68
+Senior Management,electrical,67
+Senior Management,mechanical,61
+Senior Management,cybersecurity,54
+Senior Management,civil,52

@@ -1,0 +1,15 @@
+# Ignore raw and massive data files (GitHub 100MB limit)
+SGJobData.csv
+SGJobData_Cleaned.csv
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
